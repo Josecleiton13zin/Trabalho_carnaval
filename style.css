@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.list-group-item {
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
